@@ -1,0 +1,5 @@
+﻿  glad.c
+  main.cpp
+C:\Users\ADMIN\Desktop\GDGRAP QUIZ 1 SCRATCH CODE\Assignment02-Anton_Teodoro\TEODORO_Assignment2\main.cpp(213,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  TEODORO_GDGRAP1.vcxproj -> C:\Users\ADMIN\Desktop\GDGRAP QUIZ 1 SCRATCH CODE\Assignment02-Anton_Teodoro\TEODORO_Assignment2\x64\Debug\GDGRAP.exe
